@@ -1,5 +1,5 @@
 <h1>DSA_Group_Assignment_May_2025</h1> <br>
-Assignment: Sorting and Searching Alogorithms in C++<br>
+Assignment: Searching and Sorting Alogorithms in C++<br>
 Description: Compares Quick Sort and Merge Sort, and implements Binary & Exponential Search. Measures runtime for analysis. <br>
 Group Name: G11<br>
 Coder: Rohit Chand<br><br>
